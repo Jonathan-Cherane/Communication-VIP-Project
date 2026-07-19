@@ -1,2 +1,2 @@
-# Communication-VIP-Project
-The project is comprehensive, covering all aspects from planning to execution and reflection. It also emphasizes the importance of teamwork, community impact, and the practical application of IT communication skills in a real-world scenario.
+# Communication-VIP-Project: The Harmoni Mobile Application Project
+The project is comprehensive, covering all aspects from planning to execution and reflection. It also emphasizes the importance of teamwork, community impact, and the practical application of IT communication skills in a real-world scenario. The Harmoni app is designed as a holistic lifestyle management platform. Its purpose is to help students and young professionals balance health, academics, and personal growth in one unified space.
